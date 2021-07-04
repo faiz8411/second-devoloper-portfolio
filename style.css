@@ -1,6 +1,9 @@
-h1{
+body{
     font-family: 'Bona Nova', serif;
-    font-size: 40px;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
 }
 .orange-color{
     color: orange;
@@ -22,4 +25,8 @@ section{
     color: white;
     font-weight: 900;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }
